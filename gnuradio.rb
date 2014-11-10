@@ -2,9 +2,9 @@ require 'formula'
 
 class Gnuradio < Formula
   homepage 'http://gnuradio.org'
-  url  'http://gnuradio.org/releases/gnuradio/gnuradio-3.7.5.tar.gz'
-  sha1 'fe30be815aca149bfac1615028a279aea40c3bbb'
-  head 'http://gnuradio.org/git/gnuradio.git'
+  url  'http://gnuradio.org/releases/gnuradio/gnuradio-3.7.5.1.tar.gz'
+  sha1 'ccb66c462aff098bcdace60e52aad64439177b48'
+  head 'https://github.com/gnuradio/gnuradio.git'
 
   option 'with-qt', 'Build with Qt 4 or 5 support'
   option 'with-wx', 'Build with WX gui toolkit support'
