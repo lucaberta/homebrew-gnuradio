@@ -55,7 +55,7 @@ These steps have been tested on Mavericks 10.9.5 with Apple Command Line Tools 6
 - Install gnuradio 
 
   ```sh
-  brew tap andresv/homebrew-gnuradio
+  brew tap lucaberta/homebrew-gnuradio
   brew install gnuradio --with-qt
   ```
 
