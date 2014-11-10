@@ -71,6 +71,7 @@ These steps have been tested on Mavericks 10.9.5 with Apple Command Line Tools 6
 - Install `hackrf` and related blocks
 
   ```sh
+  brew install pkg-config
   brew install hackrf --HEAD gr-osmosdr gr-baz --HEAD
   ```
 
